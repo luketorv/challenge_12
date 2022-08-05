@@ -1,0 +1,26 @@
+{
+  "name": "challenge_12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luketorv/challenge_12.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luketorv/challenge_12/issues"
+  },
+  "homepage": "https://github.com/luketorv/challenge_12#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.4",
+    "mysql2": "^2.3.3",
+    "nanoid": "^2.1.11",
+    "node-fetch": "^2.6.6"
+  }
+}
